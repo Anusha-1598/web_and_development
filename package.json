@@ -1,0 +1,22 @@
+{
+  "name": "web_and_development",
+  "version": "1.0.0",
+  "description": "MODULE TITLE: WEB AND DEVELOPMENT FOR INFORMATION SYSTEM \r MODULE CODE: B9IS109\r MODULE LEADER: Hamidreza Khaleghzadeh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anusha-1598/web_and_development.git"
+  },
+  "keywords": [
+    "anu"
+  ],
+  "author": "anu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anusha-1598/web_and_development/issues"
+  },
+  "homepage": "https://github.com/Anusha-1598/web_and_development#readme"
+}
