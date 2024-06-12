@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Anusha-1598/web_and_development/issues"
   },
-  "homepage": "https://github.com/Anusha-1598/web_and_development#readme"
+  "homepage": "https://github.com/Anusha-1598/web_and_development#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
